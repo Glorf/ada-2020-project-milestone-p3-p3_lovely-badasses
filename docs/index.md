@@ -38,8 +38,11 @@ TODO insert here circular plot of the external events calendar, ideally when we 
 
 # Now are we still chilling ?
 
+Now we reproduce the same figure as the first one, but without all the external events that disrupt the general trend. Do we still have chilling effect ? The suspense is at its peak...
 
+TODO insert figure of the new regression, maybe adding a functionality that allows the reader to discover the image by themselves, if you know what i mean. 
 
+TODO write conclusion here depending of our results
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
