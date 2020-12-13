@@ -26,7 +26,7 @@ Make an option to change the visualization to the second period
 
 We should not stop here, what if one article has a so huge number of views that it impacts the trend ? Let's look at the list of every topic and highlight their importance. 
 
-![Terrorism wordcloud]({{ site.url }}{{ site.baseurl }}/assets/pwc_t.jpg)
+![Terrorism wordcloud]({{ site.url }}{{ site.baseurl }}/assets/pwc_t.png)
 
 TODO insert World Cloud picture here, maybe interactive like when we hover over a word, there is the percentage of participation in the trend, or the total number of views, or the mean number of views per week/month, etc...
 
