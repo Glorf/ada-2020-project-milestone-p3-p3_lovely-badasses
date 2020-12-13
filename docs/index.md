@@ -2,6 +2,23 @@
 layout: default
 ---
 
+# Snowden's revelations !
+
+
+# Let's start our investigation...
+
+
+# Interesting…but what if one article has a so huge number of views that it impacts the trend ?
+
+
+#  But…the wikipedia counts are affected by all the events in the world ! 
+
+
+# Now are we still chilling ?
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,7 +27,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1 TEST ELISA
+
+
+# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
