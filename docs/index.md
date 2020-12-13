@@ -2,7 +2,11 @@
 layout: default
 ---
 
+TODO :find better titles
+
 # Snowden's revelations !
+
+![Branching](https://github.com/Glorf/ada-project-pages/blob/main/docs/img/headlines.png)
 
 
 # Let's start our investigation...
