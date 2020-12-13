@@ -3,9 +3,12 @@ layout: default
 ---
 
 
-# Snowden's revelations !
+# Snowden's revelations 
 
 In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. How should they behave on the Internet now that they know every one of their searches is being collected ? Let's dive into some Wikipedia and Google searches data to find out **how** they actually behaved.
+
+TODO write 'June 2013' in like quite big to the left and to the right put the image below
+[![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
 
 
 # Let's start our investigation...
@@ -13,19 +16,24 @@ In June 2013, Snowden reveals to the whole world shocking news about the U.S. go
 We need to ask ourselves a question first : what articles might people be chilled to look up after such revelations ? Well, probably the articles related to terrorism questions, because the government is tracking these people. So let's analyze the number of Wikipedia views per months for these articles.
 
 TODO insert graph of the first time period to the left, and a short comment on it to the right.
+Make an option to change the visualization to the second period 
+
+> Make the comment on the right
+> In this style, it's cool
 
 
-TODO write 'June 2013' in like quite big to the left and to the right put the image below
-[![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
+# Interesting… but is that all there is ?
+
+We should not stop here, what if one article has a so huge number of views that it impacts the trend ? Let's look at the list of every topic and highlight their importance. 
+
+TODO insert World Cloud picture here, maybe interactive like when we hover over a word, there is the percentage of participation in the trend, or the total number of views, or the mean number of views per week/month, etc...
 
 
-TODO insert graph of the second time period to the left, and a short comment on it to the right.
+#  Snowden's revelations, not the only big news
 
+There are so many world's events that happen everyday, we cannot be sure that the chilling effect observed was due to the revelations of Snowden of 2013. Of course that the Wikipedia views will be affected by external world's event. Let's have a look at them.
 
-# Interesting…but what if one article has a so huge number of views that it impacts the trend ?
-
-
-#  But…the wikipedia counts are affected by all the events in the world ! 
+TODO insert here circular plot of the external events calendar, ideally when we hover over a case it explains in one line what the event is.
 
 
 # Now are we still chilling ?
