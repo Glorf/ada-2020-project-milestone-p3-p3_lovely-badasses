@@ -17,6 +17,7 @@ We need to ask ourselves a question first : what articles might people be chille
 TODO insert graph of the first time period to the left, and a short comment on it to the right.
 Make an option to change the visualization to the second period 
 
+{% include fig1.html %}
 > Make the comment on the right
 > In this style, it's cool
 
