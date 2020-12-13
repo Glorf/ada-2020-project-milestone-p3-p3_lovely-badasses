@@ -6,7 +6,7 @@ TODO :find better titles
 
 # Snowden's revelations !
 
-![Branching](https://github.com/Glorf/ada-project-pages/blob/main/docs/img/headlines.png)
+![Headlines](https://github.com/Glorf/ada-project-pages/blob/main/docs/img/headlines.png)
 
 
 # Let's start our investigation...
@@ -121,7 +121,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://github.com/Glorf/ada-project-pages/blob/main/docs/img/headlines.png)
 
 
 ### Definition lists can be used with HTML syntax.
