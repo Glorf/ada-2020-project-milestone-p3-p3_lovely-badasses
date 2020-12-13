@@ -2,11 +2,11 @@
 layout: default
 ---
 
-TODO :find better titles
 
 # Snowden's revelations !
 
-TODO add image, doesn't work for now :(
+In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. How should they behave on the Internet now that they know every one of their searches is being collected ? Let's dive into some Wikipedia and Google Searches data to find out **how** they actually behaved.
+
 [![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
 
 
