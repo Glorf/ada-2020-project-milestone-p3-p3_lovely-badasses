@@ -5,12 +5,21 @@ layout: default
 
 # Snowden's revelations !
 
-In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. How should they behave on the Internet now that they know every one of their searches is being collected ? Let's dive into some Wikipedia and Google Searches data to find out **how** they actually behaved.
-
-[![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
+In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. How should they behave on the Internet now that they know every one of their searches is being collected ? Let's dive into some Wikipedia and Google searches data to find out **how** they actually behaved.
 
 
 # Let's start our investigation...
+
+We need to ask ourselves a question first : what articles might people be chilled to look up after such revelations ? Well, probably the articles related to terrorism questions, because the government is tracking these people. So let's analyze the number of Wikipedia views per months for these articles.
+
+TODO insert graph of the first time period to the left, and a short comment on it to the right.
+
+
+TODO write 'June 2013' in like quite big to the left and to the right put the image below
+[![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
+
+
+TODO insert graph of the second time period to the left, and a short comment on it to the right.
 
 
 # Interesting…but what if one article has a so huge number of views that it impacts the trend ?
