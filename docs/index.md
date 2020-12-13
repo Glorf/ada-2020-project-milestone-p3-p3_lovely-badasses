@@ -7,7 +7,7 @@ TODO :find better titles
 # Snowden's revelations !
 
 TODO add image, doesn't work for now :(
-![Headlines](https://i.ibb.co/xM3Z9B5/headlines.png)
+[![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
 
 
 # Let's start our investigation...
