@@ -6,9 +6,9 @@ layout: default
 
 # Snowden's revelations 
 
-In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. Everyone wonders ow they should behave on the Internet, now that they know every one of their searches is being collected. 
+In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. Everyone wonders how they should behave on the Internet, now that they know every one of their searches is being collected. 
 
-Today, our task is to investigate how people behaved after the events. We will need to figure out wether people were chilled from using the Internet the way they used to, or not. For that, we have at our disposal data from Wikipedia view counts and Google searches counts.
+Today, our task is to investigate how people behaved after the events. We will need to figure out whether people were chilled from using the Internet the way they used to, or not. For that, we have at our disposal data from Wikipedia view counts and Google searches counts.
 
 Let's dive into these datasets and find out **how** people actually behaved.
 
@@ -17,9 +17,12 @@ Let's dive into these datasets and find out **how** people actually behaved.
 
 With more than 18 billions of monthly pageviews, there are a lot of Wikipedia articles at our disposal. We need to focus on the ones that are actually meaningful in our investigation. So we have to ask ourselves a question : what articles might people be chilled to look up after such revelations ? Imagine yourself, in June 2013, thinking about all your past activities on the Internet, trying to remember what you looked up that could potentially raise a flag for the government. Imagine yourself, in June 2013, wondering how you will look up, for tomorrow's speech in your history class, informations that the government might classify as suspucious.  
 
-Well, no need to be as dramatic, but it is interesting to think about what articles fall into that category. The category of topics that, when you look them up, in a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
+Well, it is interesting to think about what articles fall into that category. The category of topics that, when you look them up,  a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
 
-We look at the view counts for articles on Wikipedia, related to terrorism, and here are the trends observed for before and after the revelations.
+![Terrorism wordcloud]({{ site.url }}{{ site.baseurl }}/assets/pwc_t.png) 
+> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia
+
+We are going to look at the view counts for articles on Wikipedia, related to terrorism, to find some insight about how people behaved. Here are the trends observed for before and after the revelations.
 
 TODO insert graph of the first time period to the left, and a short comment on it to the right.
 Make an option to change the visualization to the second period 
@@ -32,12 +35,14 @@ TODO write this next to the figure for before 2013
 TODO write this next to the figure for after 2013
 > After June 2013, people starting to go less and less on these Wikipdeia pages
 
+Interesting ! The number of views seems to be impacted by the revelations !
 
-# Interesting… but is that all there is ?
+
+# Is that all there is ?
 
 We should not stop here, what if one article has a so huge number of views that it impacts the trend ? Let's look at the list of every topic and highlight their importance. 
 
-![Terrorism wordcloud]({{ site.url }}{{ site.baseurl }}/assets/pwc_t.png)
+
 
 TODO insert World Cloud picture here, maybe interactive like when we hover over a word, there is the percentage of participation in the trend, or the total number of views, or the mean number of views per week/month, etc...
 
