@@ -58,10 +58,6 @@ Let's zoom into a particular example. On the calendar, we see that on the week o
 TODO insert graph of views for 'nuclear' and a marker on 31-03-2013
 
 
-# https://www.bbc.com/news/world-asia-pacific-11811861
-# An event that people would not be chilled about
-# For example, that was not taken into account in their study
-
 # Now are we still chilling ?
 
 We want to remove all these events from our study, because they are single events in time. We want an illustration of an effect that is lasting in time, not disturbed by external breaking news. Recall the question we need to answer : from June 2013, is there a constant fear of the goverment spying among Internet users ? Let's see what the data without 
