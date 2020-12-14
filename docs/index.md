@@ -6,20 +6,31 @@ layout: default
 
 # Snowden's revelations 
 
-In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. How should they behave on the Internet now that they know every one of their searches is being collected ? Let's dive into some Wikipedia and Google searches data to find out **how** they actually behaved.
+In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. Everyone wonders ow they should behave on the Internet, now that they know every one of their searches is being collected. 
 
+Today, our task is to investigate how people behaved after the events. We will need to figure out wether people were chilled from using the Internet the way they used to, or not. For that, we have at our disposal data from Wikipedia view counts and Google searches counts.
+
+Let's dive into these datasets and find out **how** people actually behaved.
 
 
 # Let's start our investigation...
 
-We need to ask ourselves a question first : what articles might people be chilled to look up after such revelations ? Well, probably the articles related to terrorism questions, because the government is tracking these people. So let's analyze the number of Wikipedia views per months for these articles.
+With more than 18 billions of monthly pageviews, there are a lot of Wikipedia articles at our disposal. We need to focus on the ones that are actually meaningful in our investigation. So we have to ask ourselves a question : what articles might people be chilled to look up after such revelations ? Imagine yourself, in June 2013, thinking about all your past activities on the Internet, trying to remember what you looked up that could potentially raise a flag for the government. Imagine yourself, in June 2013, wondering how you will look up, for tomorrow's speech in your history class, informations that the government might classify as suspucious.  
+
+Well, no need to be as dramatic, but it is interesting to think about what articles fall into that category. The category of topics that, when you look them up, in a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
+
+We look at the view counts for articles on Wikipedia, related to terrorism, and here are the trends observed for before and after the revelations.
 
 TODO insert graph of the first time period to the left, and a short comment on it to the right.
 Make an option to change the visualization to the second period 
 
 {% include fig1.html %}
-> Make the comment on the right
-> In this style, it's cool
+
+TODO write this next to the figure for before 2013
+> Before June 2013, people were more and more engaging with the articles related to terrorism 
+
+TODO write this next to the figure for after 2013
+> After June 2013, people starting to go less and less on these Wikipdeia pages
 
 
 # Interesting… but is that all there is ?
