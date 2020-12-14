@@ -24,16 +24,11 @@ Well, it is interesting to think about what articles fall into that category. Th
 
 We are going to look at the view counts for articles on Wikipedia, related to terrorism, to find some insight about how people behaved. Here are the trends observed for before and after the revelations.
 
-TODO insert graph of the first time period to the left, and a short comment on it to the right.
-Make an option to change the visualization to the second period 
+{% include plotlytext.html figname="fig1.html" title="Before Snowden" description="> Before June 2013, people were more and more engaging with the articles related to terrorism" %}
 
-{% include fig1.html %}
 
-TODO write this next to the figure for before 2013
-> Before June 2013, people were more and more engaging with the articles related to terrorism 
+{% include plotlytext.html figname="fig2.html" title="After Snowden" description="> After June 2013, people starting to go less and less on these Wikiedia pages" %}
 
-TODO write this next to the figure for after 2013
-> After June 2013, people starting to go less and less on these Wikipdeia pages
 
 Interesting ! The number of views seems to be impacted by the revelations !
 
