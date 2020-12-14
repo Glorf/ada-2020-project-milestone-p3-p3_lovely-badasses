@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ada
 ---
 
 [![headlines.png](https://i.postimg.cc/66f5R0Wc/headlines.png)](https://postimg.cc/3WWTQ2D0)
@@ -19,10 +19,8 @@ With more than 18 billions of monthly pageviews, there are a lot of Wikipedia ar
 
 Well, it is interesting to think about what articles fall into that category. The category of topics that, when you look them up,  a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
 
-TODO insert World Cloud picture here, maybe interactive like when we hover over a word, there is the percentage of participation in the trend, or the total number of views, or the mean number of views per week/month, etc...
 
-![Terrorism wordcloud]({{ site.url }}{{ site.baseurl }}/assets/pwc_t.png) 
-> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia
+{% include imagetext.html image_path="pwc_t.png" title="Freaking content" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
 
 We are going to look at the view counts for articles on Wikipedia, related to terrorism, to find some insight about how people behaved. Here are the trends observed for before and after the revelations.
 

@@ -1,0 +1,23 @@
+.main-content {
+  max-width: 80%;
+}
+
+.grid {
+  display: flex;
+}
+.col-1-2 {
+  flex: 1;
+}
+.col-1-2:last-child {
+  margin-left: 20px;
+}
+
+.comment {
+  font-style: italic;
+  font-size: xx-large;
+  text-align: left;
+}
+
+.commenttitle {
+  text-align: center;
+}
