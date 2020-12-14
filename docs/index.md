@@ -19,6 +19,8 @@ With more than 18 billions of monthly pageviews, there are a lot of Wikipedia ar
 
 Well, it is interesting to think about what articles fall into that category. The category of topics that, when you look them up,  a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
 
+TODO insert World Cloud picture here, maybe interactive like when we hover over a word, there is the percentage of participation in the trend, or the total number of views, or the mean number of views per week/month, etc...
+
 ![Terrorism wordcloud]({{ site.url }}{{ site.baseurl }}/assets/pwc_t.png) 
 > Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia
 
@@ -38,20 +40,14 @@ TODO write this next to the figure for after 2013
 Interesting ! The number of views seems to be impacted by the revelations !
 
 
-# Is that all there is ?
-
-We should not stop here, what if one article has a so huge number of views that it impacts the trend ? Let's look at the list of every topic and highlight their importance. 
-
-
-
-TODO insert World Cloud picture here, maybe interactive like when we hover over a word, there is the percentage of participation in the trend, or the total number of views, or the mean number of views per week/month, etc...
-
-
 #  Snowden's revelations, not the only big news
 
-There are so many world's events that happen everyday, we cannot be sure that the chilling effect observed was due to the revelations of Snowden of 2013. Of course that the Wikipedia views will be affected by external world's event. Let's have a look at them.
+While we are happy with our first results, let's not stop here. There are so many world's events that happen everyday, we cannot be sure that the chilling effect observed was due to the revelations of Snowden of 2013. Maybe a lot of events related to terrorism happened before 2013, so that's why we observe such trends. Of course that the Wikipedia views will be affected by external world's event. But what exactly were the external events related to terrorism before and after June 2013 ? We gathered most of them below. Feel free to explore them.
+
 
 TODO insert here circular plot of the external events calendar, ideally when we hover over a case it explains in one line what the event is.
+
+TODO When clicking on the event, also plotting a graph of the article view count and a marker of the day they clicked on
 
 
 # Now are we still chilling ?
