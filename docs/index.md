@@ -48,7 +48,9 @@ TODO When clicking on the event, also plotting a graph of the article view count
 
 Let's zoom into a particular example. On the calendar, we see that on the week of 31st of March 2013, the Wikipedia article 'Nuclear' has a high activity. It makes sense because on the 2nd April, North Korea says it will restarts its main nuclear complex, including a reactor mothballed. This is only about news in the world, and should not be an event that interests us. The only one that we care about is Snowden's revelations. People wouldn't be chilled about getting informed on nuclear technology when the nuclear topic is at the center of every news.
 
-TODO insert graph of views for 'nuclear' and a marker on 31-03-2013
+{% include plotlytext.html figname="fig_korea.html" title="The case of Korean Peninsula" description="> At the beginning of April 2013 North Korea restarted its main nuclear complex" %}
+
+TODO!: Doesn't seem that's a good date, maybe january is more reasonable as there was a UN Security Council resolution at that time?
 
 
 # Now are we still chilling ?
