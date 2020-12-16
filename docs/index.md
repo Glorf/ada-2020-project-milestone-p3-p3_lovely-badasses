@@ -57,14 +57,9 @@ TODO!: Doesn't seem that's a good date, maybe january is more reasonable as ther
 
 We want to remove all the external world events from our study, because they are single events in time. We want an illustration of an effect that is lasting in time, not disturbed by external breaking news. Recall the question we need to answer : from June 2013, is there a constant fear of the goverment spying among Internet users ? Let's see what the data in a world without big common events looks like. To do that we reproduce the same figure as the first one, but without all the external events that disrupt the general trend. Do we still have chilling effect ? The suspense is at its peak...
 
-TODO insert figure of the new regression, maybe adding a functionality that allows the reader to discover the image by themselves, if you know what i mean. 
-
-> Write here what we see !
+{% include plotlytext.html figname="fig_final.html" title="The chill unchanged" description="> After normalizing the outlier weeks caused by the external events, the trend of chilling effect is still reproducible" %}
 
 
 # Title depending on the final plot 
 
 TODO write conclusion here depending of our results
-
-
-
