@@ -54,7 +54,9 @@ Let's zoom into a particular example. On the calendar, we see that on the week o
 
 On another note, we can look at the data for the 'Car Bomb' topic. We strangly observe a spike that seems to be there every year at the same date. Strange... But actually, for St Patrick, there is a popular irish 'Car Bomb' cocktail ! Guinness, Whskey and Baileys's and you are good to go !
 
-TODO insert graph of car bomb + image of the cocktail
+TODO insert graph of car bomb 
+
+{% include imagetext.html image_path="carbomb.jpg" description="> Yummy Car Bomb" %}  
 
 # Now are we still chilling ?
 
