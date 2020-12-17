@@ -44,19 +44,25 @@ TODO insert here circular plot of the external events calendar, ideally when we 
 
 TODO When clicking on the event, also plotting a graph of the article view count and a marker of the day they clicked on
 
-# North Korea's nuclear complex
+# Ghouta chemical attack
 
-Let's zoom into a particular example. On the calendar, we see that on the week of 31st of March 2013, the Wikipedia article 'Nuclear' has a high activity. It makes sense because on the 2nd April, North Korea says it will restarts its main nuclear complex, including a reactor mothballed. This is only about news in the world, and should not be an event that interests us. The only one that we care about is Snowden's revelations. People wouldn't be chilled about getting informed on nuclear technology when the nuclear topic is at the center of every news.
+Let's zoom into a particular example. On the calendar, we see that on the week of the 21 of March 2013, the Wikipedia article 'Chemical Weapon' has a high activity. It makes sense because on this date, there was an attack in Ghouta in Syria, during the civil war. It was the deadliest use of chemical weapon since the Iran-Irqa war. This event is about news in the world, and should not be an event that interests us in our study, because it is external to Snowden's revelations and causes an abnormal activity for the Wikipedia page. People wouldn't be chilled about getting informed on chemical weapons when this topic is at the center of every news. 
 
 {% include plotlytext.html figname="fig_chemical.html" title="The Syrian civil war" description="> Ghouta chemical attack happened on 21 August 2013. This important moment was noticed by the Google Trends by the unusual spike of ''chemical weapons'' keyword" %}
 
+# Two cocktails from Irland please !
+
+On another note, we can look at the data for the 'Car Bomb' topic. We strangly observe a spike that seems to be there every year at the same date. Strange... But actually, for St Patrick, there is a popular irish 'Car Bomb' cocktail ! Guinness, Whskey and Baileys's and you are good to go !
+
+TODO insert graph of car bomb + image of the cocktail
+
 # Now are we still chilling ?
 
-We want to remove all the external world events from our study, because they are single events in time. We want an illustration of an effect that is lasting in time, not disturbed by external breaking news. Recall the question we need to answer : from June 2013, is there a constant fear of the goverment spying among Internet users ? Let's see what the data in a world without big common events looks like. To do that we reproduce the same figure as the first one, but without all the external events that disrupt the general trend. Do we still have chilling effect ? The suspense is at its peak...
+Now, let's focus again on our primary goal. We want to remove all the external world events from our study, because they are single events in time. We want an illustration of an effect that is lasting in time, not disturbed by external breaking news. Recall the question we need to answer : from June 2013, is there a constant fear of the goverment spying among Internet users ? Let's see what the data in a world without big common events looks like. To do that we reproduce the same figure as the first one, but without all the external events that disrupt the general trend. Do we still have chilling effect ? The suspense is at its peak...
 
 {% include plotlytext.html figname="fig_final.html" title="The chill unchanged" description="> After normalizing the outlier weeks caused by the external events, the trend of chilling effect is still reproducible" %}
 
 
-# Title depending on the final plot 
+# Chilling through the times
 
-TODO write conclusion here depending of our results
+Even without outliers from breaking news, the number of views after the revelations still decreases ! People are afraid to look for sensible subjects, by fear of the online surveillance ! This is quite interesting because it means that the revelations had an impact on the behaviour of Internet users. It means that people are not totally free to browse the Internet, get informed on some subject, because they know that there exists online surveillance. Be careful on what you do on the Internet, the government is watching you.
