@@ -19,7 +19,7 @@ With more than 18 billions of monthly pageviews, there are a lot of Wikipedia ar
 
 Well, it is interesting to think about what articles fall into that category. The category of topics that, when you look them up,  a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
 
-{% include imagetext.html image_path="pwc_t.png" title="Freaking content" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
+{% include imagetext.html image_path="pwc_t.png" title="Bigs Topics" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
 
 We are going to look at the view counts for articles on Wikipedia, related to terrorism, to find some insight about how people behaved. Here are the trends observed for before and after the revelations.
 
@@ -51,11 +51,11 @@ On another note, we can look at the data for the 'Car Bomb' topic. We strangly o
 
 {% include imageplotly.html figname="fig_patrick.html" image_path="carbomb.jpg" %}
 
-# The cleanup
+# Everybody calm down !
 
-Now, let's focus again on our primary goal. We want to remove all the external world events from our study, because they are single events in time. We want an illustration of an effect that is lasting in time, not disturbed by external breaking news.
+Now, let's focus again on our primary goal. We want to remove all the external world events from our study, because they are single events in time. We want an illustration of an effect that is lasting in time, not disturbed by external breaking news. This is an example of removing the outliers from the 'Chemical Weapon' topic we talked about earlier.
 
-{% include plotlytext.html figname="figalignment.html" title="Everybody calm down!" description="> The ''breaking news'' effect was removed from ''chemical weapon'' wikipedia article views based on the Google Trends keyword popularity" %}
+{% include plotlytext.html figname="figalignment.html" title="No more outlier" description="> The ''breaking news'' effect was removed from ''chemical weapon'' wikipedia article views based on the Google Trends keyword popularity" %}
 
 # Now are we still chilling ?
  Recall the question we need to answer : from June 2013, is there a constant fear of the goverment spying among Internet users ? Let's see what the data in a world without big common events looks like. To do that we reproduce the same figure as the first one, but without all the external events that disrupt the general trend. Do we still have chilling effect ? The suspense is at its peak...
