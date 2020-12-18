@@ -27,7 +27,7 @@ We are going to look at the view counts for articles on Wikipedia, related to te
 
 {% include plotlytext.html figname="fig2.html" title="After Snowden" description="> After June 2013, people starting to go less and less on these Wikipedia pages" %}
 
-Interesting ! The number of views seems to be impacted by the revelations !
+Interesting ! The number of views seems to have been impacted by the revelations !
 
 
 # Snowden's revelations, not the only big news
@@ -41,7 +41,7 @@ We gathered those extraordinary events, feel free to explore them.
 
 # Ghouta chemical attack
 
-Let's zoom into a particular example. On the calendar, we see that on the week of the 21 of March 2013, the Wikipedia article 'Chemical Weapon' has a high activity. It makes sense because on this date, there was an attack in Ghouta in Syria, during the civil war. It was the deadliest use of chemical weapon since the Iran-Irqa war. This event is about news in the world, and should not be an event that interests us in our study, because it is external to Snowden's revelations and causes an abnormal activity for the Wikipedia page. People wouldn't be chilled about getting informed on chemical weapons when this topic is at the center of every news. 
+Let's zoom into a particular example. On the calendar, we see that on the week of the 21 of March 2013, the Wikipedia article 'Chemical Weapon' has a high activity. It makes sense because on this date, there was an attack in Ghouta in Syria, during the civil war. It was the deadliest use of chemical weapon since the Iran-Iraq war. This event is about news in the world, and should be excluded from our study, because it is external to Snowden's revelations and causes an abnormal activity for the Wikipedia page. People wouldn't be chilled about getting informed on chemical weapons when this topic is at the center of every news. 
 
 {% include plotlytext.html figname="fig_chemical.html" title="The Syrian civil war" description="> Ghouta chemical attack happened on 21 August 2013. This important moment was noticed by the Google Trends by the unusual spike of ''chemical weapons'' keyword" %}
 
