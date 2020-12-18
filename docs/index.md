@@ -19,21 +19,18 @@ With more than 18 billions of monthly pageviews, there are a lot of Wikipedia ar
 
 Well, it is interesting to think about what articles fall into that category. The category of topics that, when you look them up,  a small part of you thinks that this would make you look bad from the eyes of the government. This category contains every topic related to terrorism matters, because that's what the government is tracking, people with interest in terrorism's questions.
 
-
 {% include imagetext.html image_path="pwc_t.png" title="Freaking content" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
 
 We are going to look at the view counts for articles on Wikipedia, related to terrorism, to find some insight about how people behaved. Here are the trends observed for before and after the revelations.
 
 {% include plotlytext.html figname="fig1.html" title="Before Snowden" description="> Before June 2013, people were more and more engaging with the articles related to terrorism" %}
 
-
-{% include textplotly.html figname="fig2.html" title="After Snowden" description="> After June 2013, people starting to go less and less on these Wikipedia pages" %}
-
+{% include plotlytext.html figname="fig2.html" title="After Snowden" description="> After June 2013, people starting to go less and less on these Wikipedia pages" %}
 
 Interesting ! The number of views seems to be impacted by the revelations !
 
 
-#  Snowden's revelations, not the only big news
+# Snowden's revelations, not the only big news
 
 While we are happy with our first results, let's not stop here. There are so many world's events that happen everyday, we cannot be sure that the chilling effect observed was due to the revelations of Snowden of 2013. Maybe a lot of events related to terrorism happened before 2013, so that's why we observe such trends. Of course that the Wikipedia views will be affected by external world's event. But what exactly were the external events related to terrorism before and after June 2013 ? We gathered most of them below. How do we do that ? Well, when there is a breaking news and you want to know more about it, what do you do ? You type keywords in Google. And probably so does everyone else. This creates an extraordinary amount of requests in the Google search bar, and we can find these counts numbers with the Google Trends tool. 
 
@@ -41,8 +38,6 @@ We gathered those extraordinary events, feel free to explore them.
 
 
 {% include fig_main.html %}
-
-TODO When clicking on the event, also plotting a graph of the article view count and a marker of the day they clicked on
 
 # Ghouta chemical attack
 
