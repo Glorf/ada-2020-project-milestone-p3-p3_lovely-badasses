@@ -14,13 +14,13 @@
 
 .comment {
   font-style: italic;
-  font-size: x-small;
+  font-size: medium;
   text-align: left;
 }
 
 .commenttitle {
   font-style: normal;
-  font-size: small;
+  font-size: large;
   text-align: center;
 }
 
