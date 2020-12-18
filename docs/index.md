@@ -27,7 +27,7 @@ We are going to look at the view counts for articles on Wikipedia, related to te
 {% include plotlytext.html figname="fig1.html" title="Before Snowden" description="> Before June 2013, people were more and more engaging with the articles related to terrorism" %}
 
 
-{% include plotlytext.html figname="fig2.html" title="After Snowden" description="> After June 2013, people starting to go less and less on these Wikiedia pages" %}
+{% include textplotly.html figname="fig2.html" title="After Snowden" description="> After June 2013, people starting to go less and less on these Wikipedia pages" %}
 
 
 Interesting ! The number of views seems to be impacted by the revelations !
@@ -40,7 +40,7 @@ While we are happy with our first results, let's not stop here. There are so man
 We gathered those extraordinary events, feel free to explore them.
 
 
-TODO insert here circular plot of the external events calendar, ideally when we hover over a case it explains in one line what the event is.
+{% include fig_main.html %}
 
 TODO When clicking on the event, also plotting a graph of the article view count and a marker of the day they clicked on
 
@@ -54,7 +54,7 @@ Let's zoom into a particular example. On the calendar, we see that on the week o
 
 On another note, we can look at the data for the 'Car Bomb' topic. We strangly observe a spike that seems to be there every year at the same date. Strange... But actually, for St Patrick, there is a popular irish 'Car Bomb' cocktail ! Guinness, Whiskey and Baileys's and you are good to go !
 
-{% include plotlyimage.html figname="fig_patrick.html" image_path="carbomb.jpg" %}
+{% include imageplotly.html figname="fig_patrick.html" image_path="carbomb.jpg" %}
 
 # The cleanup
 
